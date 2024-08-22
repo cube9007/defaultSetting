@@ -1,1 +1,2 @@
-# defaultSetting
+## npm install
+## npm run dev
